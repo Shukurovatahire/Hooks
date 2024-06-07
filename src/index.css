@@ -1,0 +1,19 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.1;
+  color: rgb(16, 16, 58);
+  text-align: left;
+}

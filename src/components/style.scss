@@ -1,0 +1,51 @@
+.imgContainer img {
+  width: 300px;
+  height: 400px;
+}
+.filmBox {
+    gap: 3rem;
+  width: 1180px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.filmDetalis p {
+font-size: 30px;
+}
+.filmDetalis{
+text-align: left;
+}
+.userInfo{
+    text-align: left;
+    font-size: 30px;
+}
+.imageBox img{
+    width: 300px;
+    height: 400px;
+}
+.userBox{
+    gap: 3rem;
+    width: 1180px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.timeBox{
+    display: flex;
+    align-items: center;
+}
+.petInfo{
+    text-align: left;
+    font-size: 30px;
+}
+.petBox{
+    gap: 3rem;
+    width: 1180px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
