@@ -3,6 +3,7 @@ import Film from "./Film";
 import Users from "./Users";
 import Time from "./Time";
 import Pet from "./Pet";
+import dog from '../assets/dog.jpg'
 
 const MainPage: React.FC = () => {
   const filmDetails = {
@@ -27,7 +28,7 @@ const MainPage: React.FC = () => {
     type: "Golden Retriver",
     age: 2,
     gender:"Male",
-    url:"https://image.petmd.com/files/inline-images/golden-retriever-2.jpg?VersionId=9HAclc1bWh8XvyNoGi2.UxpdEp1gygb_"
+    url: dog
   
   }
 
